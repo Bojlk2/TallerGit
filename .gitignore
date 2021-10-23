@@ -4,5 +4,5 @@ contrasenas.txt
 #asi ignoramos carpetas
 secretos/
 
-#asi ignoramos un archivo dentro de una crpeta
+#asi ignoramos un archivo dentro de una carpeta
 folder/yonoimporto.txt
