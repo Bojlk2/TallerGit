@@ -1,1 +1,8 @@
+# asi ignoramos archivos
 contrasenas.txt
+
+#asi ignoramos carpetas
+secretos/
+
+#asi ignoramos un archivo dentro de una crpeta
+folder/yonoimporto.txt
