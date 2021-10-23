@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Primer linea del capitulo capitulo C
 Y todos vivieron  felices para siempre FIN!
 
+=======
+Primer linea del capitulo C
+Y todos murireon FIN!
+>>>>>>> final-tragico
